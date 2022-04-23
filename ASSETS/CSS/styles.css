@@ -1,0 +1,26 @@
+body {
+    font-family: 'Kanit';
+}
+
+
+.nombre {
+    background-color: rgb(148, 148, 241);
+    padding-bottom: 2%;
+}
+
+img {
+    margin-top: 5%;
+}
+
+h2,h3 {
+    color: darkolivegreen;
+}
+
+.redes {
+    display: inline-block;
+}
+
+footer {
+    text-align: center;
+  
+}
